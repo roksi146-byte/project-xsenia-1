@@ -9,10 +9,7 @@
     <h1> всем привет! меня зовут Ксения и это мой первый сайт!
 <p> я из города Киров</p>
 <img src="фото.jpg" height="100px">
-
-<a href="https://www.odin.study/ru/Discipline/Info/158690"> нажми на меня
-
-</a>
+<a href="https://www.odin.study/ru/Discipline/Info/158690"> нажми на меня</a>
      </h1>
 </body>
 </html>
